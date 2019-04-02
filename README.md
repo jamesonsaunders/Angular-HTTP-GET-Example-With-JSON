@@ -1,26 +1,16 @@
-# AngularHttpGetExample
+# Angular HTTP GET Example with JSON
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
+This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Angular HTTP GET Example with JSON](https://youtu.be/SYBzE68Ee-g).
+
+[![Angular HTTP GET Example with JSON](https://img.youtube.com/vi/SYBzE68Ee-g/0.jpg)](https://youtu.be/SYBzE68Ee-g)
+
+A simple example of how to perform a GET request over HTTP in angular to retrieve some JSON data from a server.
+
+If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web & mobile development videos.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Further help
 
