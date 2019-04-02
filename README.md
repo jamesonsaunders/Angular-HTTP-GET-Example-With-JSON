@@ -6,7 +6,7 @@ This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Angu
 
 A simple example of how to perform a GET request over HTTP in angular to retrieve some JSON data from a server.
 
-If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web & mobile development videos.
+If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for more web & mobile development videos.
 
 ## Development server
 
