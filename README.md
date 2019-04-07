@@ -2,7 +2,7 @@
 
 This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Angular HTTP GET Example with JSON](https://youtu.be/SYBzE68Ee-g).
 
-[![Angular HTTP GET Example with JSON](https://img.youtube.com/vi/SYBzE68Ee-g/0.jpg)](https://youtu.be/SYBzE68Ee-g)
+[![Angular HTTP GET Example with JSON](https://img.youtube.com/vi/SYBzE68Ee-g/mqdefault.jpg)](https://youtu.be/SYBzE68Ee-g)
 
 A simple example of how to perform a GET request over HTTP in angular to retrieve some JSON data from a server.
 
