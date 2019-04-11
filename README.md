@@ -1,6 +1,6 @@
 # Angular HTTP GET Example with JSON
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Angular HTTP GET Example with JSON](https://youtu.be/SYBzE68Ee-g).
+This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Angular HTTP GET Example with JSON](https://youtu.be/SYBzE68Ee-g) as well as the blog article [Angular HTTP GET Example with JSON](https://blog.jamibot.com/angular-http-get).
 
 [![Angular HTTP GET Example with JSON](https://img.youtube.com/vi/SYBzE68Ee-g/maxresdefault.jpg)](https://youtu.be/SYBzE68Ee-g)
 
