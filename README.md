@@ -1,12 +1,12 @@
 # Angular HTTP GET Example with JSON
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Angular HTTP GET Example with JSON](https://youtu.be/SYBzE68Ee-g) as well as the blog article [Angular HTTP GET Example with JSON](https://blog.jamibot.com/angular-http-get).
+This project accompanies the [Jameson Saunders](https://jamesonsaunders.com) YouTube video [Angular HTTP GET Example with JSON](https://youtu.be/SYBzE68Ee-g) as well as the blog article [Angular HTTP GET Example with JSON](https://blog.jamibot.com/angular-http-get).
 
 [![Angular HTTP GET Example with JSON](https://img.youtube.com/vi/SYBzE68Ee-g/maxresdefault.jpg)](https://youtu.be/SYBzE68Ee-g)
 
 A simple example of how to perform a GET request over HTTP in angular to retrieve some JSON data from a server.
 
-If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for more web & mobile development videos.
+If you haven't already, check out the [Jameson Saunders YouTube Channel](https://youtube.com/c/JamesonSaunders) for more web & mobile development videos.
 
 ## Development server
 
